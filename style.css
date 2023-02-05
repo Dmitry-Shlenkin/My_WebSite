@@ -1,0 +1,53 @@
+img{
+    border-radius: 25px;
+    margin-left: 50;
+}
+
+.angle_header{
+    margin-inline: 20%;
+    padding: 10px;
+    border-bottom: 2px solid #7312AE;
+    border-left: 2px solid #7312AE;
+}
+
+.angle{
+    padding: 10px;
+    border-bottom: 2px solid #7312AE;
+    border-left: 2px solid #7312AE;
+    margin-bottom: 40px;
+}
+
+body{
+    background:-webkit-linear-gradient(left,#fffdd2, #fff4b8); 
+    /* background-color: rgb(243, 146, 146); */
+}
+
+.container{
+    margin-left: 50px;
+    margin-right: 50px;
+    background-color: #fffc9c7c;
+}
+
+.container > div > h2{
+    padding-left: 45%;
+}
+
+.myImage{
+    border-radius: 0;
+}
+
+.block{
+    background: red;
+    margin-top: 50px;
+    border: 1px solid green;
+    width: 25%;
+    
+}
+.list > div{
+    float: left;
+    background: black;
+    padding: 2px;
+    box-sizing: border-box;
+    width: 25%;
+    height: 100px;
+}
